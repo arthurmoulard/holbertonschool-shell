@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x holbertonschool-shell
+chmod -R g+rwx holbertonschool-shell
