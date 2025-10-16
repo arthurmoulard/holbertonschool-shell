@@ -1,0 +1,2 @@
+#!/bin/bash
+cp sshd_config /etc/ssh/sshd_config > /dev/null2>&1
