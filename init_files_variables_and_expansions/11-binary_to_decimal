@@ -1,0 +1,2 @@
+#!/bin/bash
+export binary=10100111001 | echo $((2#10100111001))
